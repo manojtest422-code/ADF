@@ -1,0 +1,12 @@
+{
+	"name": "test-adf234",
+	"properties": {
+		"globalParameters": {
+			"manoj": {
+				"type": "int",
+				"value": 20
+			}
+		}
+	},
+	"location": "eastus"
+}
