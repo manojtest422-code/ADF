@@ -9,4 +9,15 @@
 		}
 	},
 	"location": "eastus"
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "d394fa37-a872-4544-9339-cefb3de69785",
+		"tenantId": "cf6884fb-2693-40c6-888d-ba91091cf962"
+	}
 }
